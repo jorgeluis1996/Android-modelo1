@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_hbo"
+        android:title="El señor de los anillos" />
+    <item
+        android:id="@+id/nav_netflix"
+        android:title="Los Vengadores" />
+    <item
+        android:id="@+id/nav_prime"
+        android:title="Jorge Muñiz" />
+</menu>

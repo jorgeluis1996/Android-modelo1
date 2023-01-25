@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="hbo">HBO</string>
+    <string name="netflix">Netflix</string>
+    <string name="primevideo">PrimeVideo</string>
+    <string name="texto_theboys">The Boys es una serie de televisión web estadounidense de superhéroes desarrollada por Eric Kripke para Prime Video. Basada en el cómic del mismo nombre de Garth Ennis y Darick Robertson, sigue al equipo homónimo de justicieros en su lucha contra diversos individuos con superpoderes que abusan de sus habilidades.
+    \n\n
+        The Boys está ambientada en un universo en el que los individuos superpoderosos son reconocidos como héroes por el público en general y trabajan para la poderosa corporación Vought International, que los comercializa y monetiza. Fuera de sus personajes heroicos, la mayoría son arrogantes y corruptos. La serie se centra principalmente en dos grupos: los Siete, el principal equipo de superhéroes de Vought International, y The Boys (lit. Los muchachos) como protagonistas, vigilantes que buscan derribar a Vought y a los superhéroes corruptos.
+   \n\n
+        The Boys están liderados por Billy Butcher, que desprecia a todas las personas con superpoderes, y los Siete están liderados por el narcisista y violento Homelander. A medida que se produce un conflicto entre los dos grupos, la serie también sigue a los nuevos miembros de cada equipo: Hughie Campbell de The Boys, que se une a los vigilantes después de que su novia sea asesinada accidentalmente por A-Train, un miembro de los Siete; y Annie January (cuyo nombre de superhéroe es Starlight) de los Siete, una joven y esperanzada heroína obligada a enfrentarse a la verdad sobre los héroes que admira.
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_mhc">Acontece en el año 1962 y se sitúa en un mundo distópico en el que las Potencias del Eje ganaron la Segunda Guerra Mundial y Estados Unidos ha sido dividido en tres partes: los Estados del Pacífico en la costa oeste, el Gran Reich en la costa este, y la zona neutral en las Montañas Rocosas. La serie sigue a personajes cuyos destinos se entrelazan después de entrar en contacto con diversas filmaciones contenidas en cintas que muestran una historia muy diferente a la que viven.
+        \n\n
+        Estrenado en enero de 2015, el episodio piloto fue según fuentes de la compañía "el más visto" de todos los producidos por Amazon hasta el momento. El mes siguiente, Amazon ordenó continuar las grabaciones para completar una temporada de diez episodios, que se lanzó el 20 de noviembre con reseñas positivas. Una segunda temporada de diez episodios se estrenó el 16 de diciembre de 2016, con una tercera temporada anunciada unas semanas más tarde, que se estrenó el 5 de octubre de 2018. El 21 de julio de 2018, se anunció en la Comic-Con de San Diego que la serie había sido renovada para una cuarta y última temporada, la cual fue estrenada el 15 de noviembre de 2019
+        \n\n
+        La primera temporada de The Man in the High Castle recibió la aclamación de la crítica. Rotten Tomatoes le otorga una calificación de aprobación del 95 % con base en revisiones de 58 críticos, con una calificación promedio de 7,54 de 10. El consenso crítico del sitio afirma: «Obra del productor ejecutivo Ridley Scott, The Man in the High Castle es diferente a cualquier otra cosa en televisión, con una trama absorbente impulsada por personajes rápidamente desarrollados en una distopía completamente realizada después de la Segunda Guerra Mundial»
+
+    </string>
+    <string name="the_boys">The Boys</string>
+    <string name="the_man_in_the_high_castle">The Man in the High Castle</string>
+    <string name="textview">TextView</string>
+</resources>
